@@ -16,10 +16,10 @@ Follow these instructions to set up and run the Shoe Store Management System on 
 1. Clone the repository to your local machine.
    ```bash
    git clone https://github.com/your-username/shoe-store-management.git
-2.Import the project into your favorite Java IDE.
-3.Set up the MySQL database by executing the provided SQL script (database.sql).
-4.Configure the database connection in the application code (Database.java) with your MySQL credentials.
-5.Run the application.
+2. Import the project into your favorite Java IDE.
+3. Set up the MySQL database by executing the provided SQL script (database.sql).
+4. Configure the database connection in the application code (Database.java) with your MySQL credentials.
+5. Run the application.
 
 #### Usage
 - Launch the application.
