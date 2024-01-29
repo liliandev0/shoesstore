@@ -3,6 +3,8 @@
 ## Overview
 The Shoe Store Management System is a Java-based application for managing inventory, sales, and customer information in a shoe store.
 
+## Last update - 29/01/2024
+
 ## Getting Started
 Follow these instructions to set up and run the Shoe Store Management System on your local machine.
 
