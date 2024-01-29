@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NegozioScarpe:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NegozioScarpe_jar</output-path>
+    <root id="archive" name="NegozioScarpe.jar">
+      <element id="module-output" name="ShoesStore" />
+      <element id="library" level="project" name="api" />
+      <element id="extracted-dir" path="$USER_HOME$/jcalendar-1.4/lib/jgoodies-common-1.2.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/jcalendar-1.4/lib/jgoodies-looks-2.4.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../mysql-connector-java-8.0.29.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/jcalendar-1.4/lib/junit-4.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jetbrains/annotations/24.0.0/annotations-24.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/jfoenix/jfoenix/9.0.10/jfoenix-9.0.10.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
