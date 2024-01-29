@@ -31,5 +31,4 @@ Follow these instructions to set up and run the Shoe Store Management System on 
 - Sales processing
 
 ##### Info
-- Contact
-For more info feel free to contact me at busuioclilian03@gmail.com
+- For more info feel free to contact me at busuioclilian03@gmail.com
